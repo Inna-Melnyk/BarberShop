@@ -615,7 +615,9 @@ header {
 
   color: var(--light-text-color);
 }
-
+.sup-contacts {
+  color: var(--invert-color);
+}
 .working-hours {
   font-weight: 400;
   font-size: 18px;
